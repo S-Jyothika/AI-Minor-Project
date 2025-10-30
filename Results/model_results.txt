@@ -1,0 +1,11 @@
+Model: Logistic Regression
+Dataset: advertising.csv
+
+Accuracy: 95%
+Precision (Clicked=1): 0.97
+Recall (Clicked=1): 0.93
+F1 Score: 0.95
+
+Observation:
+The model performed efficiently in distinguishing between users who clicked on an ad and those who did not.
+Logistic Regression proved to be an effective choice for binary classification problems like CTR prediction.
