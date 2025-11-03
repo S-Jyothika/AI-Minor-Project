@@ -70,7 +70,7 @@ Bachelor of Technology in Computer Science and Engineering
 Lakireddy Balireddy College of Engineering, Mylavaram  
 
 **Email:** 
-   - jyothikasigirisetty@gmail.com  
+   - jyothisigirisetty@gmail.com  
 **GitHub:**
    - [S-Jyothika](https://github.com/S-Jyothika)  
 
